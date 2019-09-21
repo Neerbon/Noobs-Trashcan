@@ -9,4 +9,4 @@ My closet for projects
  
  None of the things will work without it
  
- just drag and drop the folder to Love2d
+ just drag and drop the folder to Love2d.
