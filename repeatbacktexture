@@ -1,0 +1,9 @@
+background = love.graphics.newImage("textures/background.png")
+background:setWrap("repeat")
+background:setWrap("repeat")
+
+bquad = love.graphics.newQuad(0, 0, love.graphics.getWidth(), love.graphics.getHeight(), background:getDimensions())
+
+
+
+love.graphics.draw(background, bquad, 0, 0)
